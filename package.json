@@ -1,0 +1,27 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "projeto api ads",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbkLtc/projeto_api.git"
+  },
+  "keywords": [
+    "api",
+    "rest",
+    "node"
+  ],
+  "author": "rbk_ltc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rbkLtc/projeto_api/issues"
+  },
+  "homepage": "https://github.com/rbkLtc/projeto_api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
